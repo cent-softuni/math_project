@@ -1,4 +1,4 @@
-# Personal Loan Prediction – ML Project
+# Personal Loan Prediction – Soft Uni Project
 
 ## Overview
 This project focuses on predicting whether a bank customer will accept a personal loan offer. The goal is to help the marketing team target the right customers and improve conversion rates.
